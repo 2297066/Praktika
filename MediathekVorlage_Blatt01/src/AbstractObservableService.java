@@ -4,6 +4,7 @@ import java.util.List;
 /**
  * Eine abstrakte Implementation des ObservableService Interfaces, die die
  * Verwaltung und Benachrichtigung der Beobachter bereitstellt.
+ * hallo
  * 
  * @author SE2-Team, PM2-Team
  * @version SoSe 2016
